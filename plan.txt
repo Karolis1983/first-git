@@ -1,0 +1,2 @@
+1. padaryti index
+2. sukurti css
